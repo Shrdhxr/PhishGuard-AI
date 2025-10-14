@@ -1,0 +1,13 @@
+scikit-learn
+numpy
+pandas
+torch
+requests
+beautifulsoup4
+python-whois
+tldextract
+joblib
+transformers
+matplotlib
+seaborn
+tqdm
